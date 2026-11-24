@@ -48,3 +48,25 @@ These community policies do not replace those licenses.
 Community reports: jahvascripts@gmail.com
 
 [Explore JahvaScript projects](https://github.com/Jahvascript)
+
+---
+
+## Maintaining Our Community Standards
+
+These documents provide default community guidelines
+for JahvaScript repositories that do not define
+their own corresponding policies.
+
+When updating these standards:
+
+- Keep the community welcoming and accessible.
+- Preserve Contributor Covenant attribution and licensing.
+- Verify that reporting information remains accurate.
+- Review how changes affect existing repositories.
+- Respect project-specific community requirements.
+- Never publish private incident reports or personal data.
+
+Changes to this repository may affect the community
+guidelines displayed across multiple JahvaScript projects.
+
+**Code with purpose. Build with unity.**
